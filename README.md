@@ -8,7 +8,8 @@
 🌱 I’m currently learning how to master Power BI for visualizations<br/>
 🎓 M.A. in Experimental Psychology from Appalachian State University<br/>
 🧭 I’m always looking for ways to expose myself to new projects<br/>
-📣 Reach out to me at dangeloha@appstate.edu<br/>
+
+## Reach out to me at dangeloha@appstate.edu
 
 ## Software Experience
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
