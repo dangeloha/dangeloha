@@ -12,13 +12,24 @@ Research Consultant who provides data collection, analysis, visualization, and i
 
 ## Message me at dangeloha@appstate.edu
 
+
 ## Software Experience
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+
 ## GitHub Stats
 ![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangeloha&show_icons=true&theme=tokyonight)
+
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dangeloha&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
