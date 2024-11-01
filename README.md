@@ -20,3 +20,4 @@ Research Consultant who provides data collection, analysis, visualization, and i
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangeloha&show_icons=true&theme=tokyonight)
