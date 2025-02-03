@@ -4,9 +4,9 @@
 **dangeloha/dangeloha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Research Consultant who provides data collection, analysis, visualization, and interpretation assistance!<br/>
+Research and Data Analytics Consultant who provides data collection, analysis, visualization, and interpretation assistance!<br/>
 
-👩‍💻 I’m currently learning how to master Power BI for visualizations.<br/>
+👩‍💻 I’m currently learning how to master Tableau for visualizations.<br/>
 🎓 M.A. in Experimental Psychology from Appalachian State University.<br/>
 🧭 I’m always looking for ways to expose myself to new projects.<br/>
 
